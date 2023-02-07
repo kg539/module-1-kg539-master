@@ -5,7 +5,6 @@ on: [push]
 env:
   DOCKER_REPO_NAME: kg539/module1a
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
